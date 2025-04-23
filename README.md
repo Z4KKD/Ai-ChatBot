@@ -91,7 +91,6 @@ chatbot_project/
 
 - **Persistent conversation history** with a database or session management
 - **Switch to GPT-4** for even more powerful conversational abilities
-- **Use environment variables** to securely store API keys
 - **Refactor UI** with a CSS framework (e.g., Bootstrap, Tailwind) for a more polished look
 - **Docker support** for easier deployment
 - **Add more test cases** to ensure robustness

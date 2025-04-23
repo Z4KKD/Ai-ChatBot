@@ -31,7 +31,7 @@ A Django-based chatbot powered by OpenAI's GPT-3.5-turbo model, integrated with 
 
 ### 1. Clone the repo
 
-git clone https://github.com/your-username/openai-omdb-chatbot.git  
+git clone https://github.com/Z4KKD/Ai-ChatBot  
 cd openai-omdb-chatbot
 
 ### 2. Install dependencies
